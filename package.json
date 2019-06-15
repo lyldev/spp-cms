@@ -24,7 +24,7 @@
     "@icedesign/theme": "^1.x",
     "ant-design-pro": "^2.3.1",
     "antd": "^3.16.6",
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "bizcharts": "3.1.0",
     "classnames": "^2.2.5",
     "enquire-js": "^0.1.2",
